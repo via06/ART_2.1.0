@@ -1,0 +1,402 @@
+Data report, 
+ , 
+26 M03 2022 (15:22:24), 
+ , 
+ , 
+System, 
+ , 
+ , 
+Firmware, 
+ , 
+Version (Current),Android 12 (31)
+Version (Released with),Android 11 (30)
+Version (Minimum),Marshmallow 6 (23)
+Security patch,01 February 2022
+Modem,MOLY.LR12A.R3.MP.V136.6.P129,MOLY.LR12A.R3.MP.V136.6.P129
+Kernel,4.19.188-g19fc88a20602-dirty
+ , 
+Build, 
+ , 
+Number,SP1A.210812.003 release-keys
+ID,SP1A.210812.003
+Date,02 M03 2022 (22:25:48)
+Tags,release-keys
+Signature,vivo/2020T/2120:12/SP1A.210812.003/compiler03022227:user/release-keys
+ , 
+Extra, 
+ , 
+Timezone,Philippine Standard Time
+Font scale,Small
+Uptime (Full),22:48:08
+Uptime (Idle),11:21:36
+Uptime (Deep Sleep),11:26:32
+ , 
+Virtual Machine, 
+ , 
+Name,ART 2.1.0
+Runtime,Android Runtime 0.9
+Heap (Maximum),0.12 GB
+Heap (Total),0.02 GB
+Heap (Available),0.02 GB
+ , 
+Properties, 
+ , 
+SELinux,Enforcing
+Treble,Supported
+Seamless update (A/B),Not supported
+Root,Unavailable
+BusyBox,Unavailable
+USB Debugging,Disabled
+OpenSSL,OpenSSL 1.1.1 (compatible; BoringSSL)
+Google Play Services,22.06.18 (170300-433619428)
+ , 
+ , 
+ID, 
+ , 
+ , 
+Identifiers, 
+ , 
+Device ID,bc7d54da407e79a7
+GSF ID,322c1726d7108b47
+ , 
+ , 
+Memory, 
+ , 
+ , 
+Storage, 
+ , 
+Protection,Not protected
+ , 
+Internal memory, 
+ , 
+Total,22.40 GB
+Available,17.49 GB (78%)
+Used,4.90 GB (22%)
+ , 
+RAM, 
+ , 
+Total,2.77 GB
+Available,1.40 GB (51%)
+Used,1.37 GB (49%)
+ , 
+SWAP, 
+ , 
+Total,1.50 GB
+Available,0.90 GB
+Used,0.60 GB
+Cached,0.01 GB
+ , 
+Buffered memory, 
+ , 
+Total,0.00 GB
+ , 
+ , 
+SIM, 
+ , 
+ , 
+General, 
+ , 
+Type,GSM
+Maximum SIM,2
+Active SIM,1
+Unlocked,No
+ , 
+Default, 
+ , 
+Internet,SIM1
+Voice,SIM1
+SMS,SIM1
+ , 
+Primary SIM, 
+ , 
+Carrier,SIM1
+Type,Regular SIM
+Slot,0
+Country (ISO),PH
+Country (Name),Philippines
+MCC,515
+MNC,02
+ , 
+ , 
+Network, 
+ , 
+ , 
+General, 
+ , 
+Type,4G (LTE)
+State,Disconnected
+Local IP (IPv4),192.168.18.39
+Local IP (IPv6),fe80::cc2c:30ff:feb6:794
+Roaming,Disabled
+ICC card,Present
+ , 
+Bandwidth, 
+ , 
+Download,3.59 kB/s
+Upload,859 B/s
+ , 
+ , 
+Wi-Fi, 
+ , 
+ , 
+General, 
+ , 
+SSID (Name),Hidden
+Hidden SSID,Enabled
+Standard,Wi-Fi 802.11n
+Security type,PSK
+Frequency,2412 MHz
+Link speed,72 Mbps
+Maximum link speed (Download),72 Mbps
+Maximum link speed (Upload),72 Mbps
+Signal strength,100 %
+Local IP (IPv4),192.168.18.39
+ , 
+Technologies, 
+ , 
+5GHz,Supported
+6GHz,Not supported
+Wi-Fi Display R2,Supported
+Wi-Fi RTT (IEEE 802.11mc),Not supported
+Wi-Fi Direct,Supported
+OWE (Wi-Fi Enhanced Open),Supported
+WPA3-Personal SAE,Supported
+WPA3 SAE Hash-to-Element,Supported
+WPA3 SAE Public Key,Not supported
+WPA3-Enterprise Suite-B-192,Supported
+WAPI,Supported
+ , 
+DHCP, 
+ , 
+DNS 1,192.168.18.1
+DNS 2,0.0.0.0
+Gateway,192.168.18.1
+Lease time,24 hours
+Netmask,0.0.0.0
+Server IP,192.168.18.1
+ , 
+ , 
+DRM, 
+ , 
+ , 
+Widevine DRM, 
+ , 
+Vendor,Google
+Version,16.1.0
+Description,Widevine CDM
+Algorithms,AES/CBC/NoPadding,HmacSHA256
+Unique ID,U68P3zO21o6Oyg5YvH6IxFGUqZ6fHkvA7//koBjef4U=
+Security level,L3
+System ID,22593
+Privacy mode,disable
+HDCP (Level),Unprotected
+HDCP (Maximum level),Unprotected
+ , 
+ClearKey DRM, 
+ , 
+Vendor,Google
+Version,1.2
+Description,ClearKey CDM
+ , 
+PlayReady DRM, 
+ , 
+Status,Not supported
+ , 
+ , 
+Security, 
+ , 
+ , 
+AndroidNSSP, 
+ , 
+Information,Android Network Security Policy Provider
+Version,1.0
+ , 
+AndroidOpenSSL, 
+ , 
+Information,Android's OpenSSL-backed security provider
+Version,1.0
+ , 
+CertPathProvider, 
+ , 
+Information,Provider of CertPathBuilder and CertPathVerifier
+Version,1.0
+ , 
+AndroidKeyStoreBCWorkaround, 
+ , 
+Information,Android KeyStore security provider to work around Bouncy Castle
+Version,1.0
+ , 
+BC, 
+ , 
+Information,BouncyCastle Security Provider v1.68
+Version,1.68
+ , 
+HarmonyJSSE, 
+ , 
+Information,Harmony JSSE Provider
+Version,1.0
+ , 
+AndroidKeyStore, 
+ , 
+Information,Android KeyStore security provider
+Version,1.0
+ , 
+ , 
+Device, 
+ , 
+ , 
+General, 
+ , 
+Model,V2120
+Codename,2120
+Manufacturer,vivo
+ , 
+Authentication, 
+ , 
+Fingerprint,Supported
+ , 
+Features, 
+ , 
+NFC,Not supported
+NFC (Host),Not supported
+GPS,Supported
+USB (Host),Supported
+ , 
+ , 
+Display, 
+ , 
+ , 
+Screen, 
+ , 
+Resolution,1600 x 720
+Aspect ratio,20 : 9
+Frame rate,60 Hz
+Density,270 dp
+ , 
+Technologies, 
+ , 
+HDR,Not supported
+sRGB,Not supported
+Wide color gamut,Not supported
+ , 
+HDR, 
+Information was hidden by the owner of the device!, 
+ , 
+GPU, 
+ , 
+OpenGL,OpenGl ES 3.2
+Vulkan,Not supported
+ , 
+ , 
+CPU, 
+ , 
+ , 
+General, 
+ , 
+Model,MT6765
+Cores,8
+Supported ABI (32-Bit),armeabi-v7a, armeabi
+Usage,92 %
+ , 
+First cluster, 
+ , 
+Frequency range,900 MHz - 2301 MHz
+ , 
+Second cluster, 
+ , 
+Frequency range,400 MHz - 1800 MHz
+ , 
+Cores, 
+ , 
+Core 0,2139 MHz
+Core 1,2139 MHz
+Core 2,2139 MHz
+Core 3,2139 MHz
+Core 4,1314 MHz
+Core 5,1314 MHz
+Core 6,1314 MHz
+Core 7,1314 MHz
+ , 
+ , 
+Battery, 
+ , 
+ , 
+General, 
+ , 
+Level,24 %
+Remaining time,09:35:56
+Status,Discharging
+Health,Good
+Remaining capacity,1200 mAh
+Discharge rate,-502 mAh
+Source,Accumulator
+ , 
+Properties, 
+ , 
+Type,Li-poly
+Temperature,38.2 °C
+Voltage,3.715 V
+Capacity,5000 mAh
+ , 
+ , 
+Cameras, 
+ , 
+ , 
+Back, 
+ , 
+Resolution,13.2 MP (4224x3136)
+Size,4.71x3.49 mm
+Color filter,GRBG
+ISO,100 - 7000
+Shutter speed,0 - 32000 s
+Focal length,3.655 mm
+Aperture,ƒ/2.2
+RAW,Supported
+Monochrome,Not supported
+OIS,Not supported
+Flash,Supported
+White balance lock,Supported
+Hardware level,Full
+Thumbnail sizes (JPEG),0x0, 160x96, 192x108, 176x144, 192x144, 240x144, 256x144, 240x160, 256x154, 240x240, 320x240, 352x242
+Antibanding modes,Off, 50Hz, 60Hz, Auto
+White balance modes,Off, Auto, Incandescent, Fluorescent, Fluorescent (Warm), Daylight, Daylight (Cloudy), Twilight, Shades
+Scene modes,Face priority, Action, Portrait, Landscape, Night, Portrait (Night), Theatre, Beach, Snow, Sunset, Steady photo, Fireworks, Sports, Party, Candlelight, Barcode, HDR
+Hot pixel modes,Off, Fast, High-quality
+Autofocus modes,Off, Basic, Macro, Continuous video, Continuous picture
+Color effect modes,Off
+ , 
+Front, 
+ , 
+Resolution,7.9 MP (3264x2448)
+Size,3.66x2.74 mm
+Color filter,BGGR
+ISO,100 - 5000
+Shutter speed,0 - 851 s
+Focal length,2.54 mm
+Aperture,ƒ/2.0
+RAW,Supported
+Monochrome,Not supported
+OIS,Not supported
+Flash,Not supported
+White balance lock,Supported
+Hardware level,Full
+Thumbnail sizes (JPEG),0x0, 160x96, 192x108, 176x144, 192x144, 240x144, 256x144, 240x160, 256x154, 240x240, 320x240, 352x242
+Antibanding modes,Off, 50Hz, 60Hz, Auto
+White balance modes,Off, Auto, Incandescent, Fluorescent, Fluorescent (Warm), Daylight, Daylight (Cloudy), Twilight, Shades
+Scene modes,Face priority, Action, Portrait, Landscape, Night, Portrait (Night), Theatre, Beach, Snow, Sunset, Steady photo, Fireworks, Sports, Party, Candlelight, Barcode, HDR
+Hot pixel modes,Off, Fast, High-quality
+Autofocus modes,Off
+Color effect modes,Off
+ , 
+ , 
+Thermal, 
+ , 
+ , 
+General, 
+ , 
+Sustained Performance Mode,Not supported
+ , 
+Throttling, 
+ , 
+Status,Not under throttling
+Description,Temperature does not affect the operation of the device.
